@@ -8,15 +8,7 @@ getgenv().UserConfig = {
     ["Limit Plant Seed"] = {
     },
     ["Limit Buy Seed"] = {
-        ["Carrot"] = 9999, 
-        ["Strawberry"] = 2,
-        ["Blueberry"] = 2,
-        ["Tulip"] = 5,
-        ["Tomato"] = 5,
-        ["Apple"] = 5,
         ["Bamboo"] = 9999,
-        ["Corn"] = 5,
-        ["Cactus"] = 5,
         ["Pineapple"] = 999,
         ["Mushroom"] = 9999,
         ["Green Bean"] = 5,
@@ -119,6 +111,7 @@ getgenv().UserConfig = {
     "Grape",
     "Coconut",
     "Mango",
+    "Dragon Fruit",
     },
     ["Limit Auto Plant"] = 800,
     ["Blacklist Seed"] = {"Mega","Pineapple","Dragon's Breath","Rocket Pop","Mushroom","Hyno Bloom","Moon Bloom","Star Fruit","Sun Bloom",}
