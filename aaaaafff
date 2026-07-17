@@ -87,7 +87,7 @@ getgenv().UserConfig = {
     ["Mail To Username"] = {"Br00klynnC0deDawn65"},
     ["Items To Mail"] = {
         ["Pet"] = {"Raccoon",
-        ["Firefly"] = {Normal = 1, Big = 1, Huge = 1, Rainbow = 1, To = "Bacon_DEATHWHISPER90"},
+        ["Firefly"] = {Normal = 1, Big = 1, Huge = 1, Rainbow = 1, To = ""},
     }
         ,
         ["Seed"] = {"Sun Bloom","Star Fruit","Moon Bloom","Dragon's Breath","Hypno Bloom","Sun Bloom"},
@@ -115,5 +115,4 @@ getgenv().UserConfig = {
     },
     ["Limit Auto Plant"] = 800,
     ["Blacklist Seed"] = {"Mega","Pineapple","Dragon's Breath","Rocket Pop","Mushroom","Hyno Bloom","Moon Bloom","Star Fruit","Sun Bloom",}
-}
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/979cba1a5b965fbc24d274454049b447.lua"))()
