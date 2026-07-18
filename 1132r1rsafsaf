@@ -45,16 +45,7 @@ getgenv().UserConfig = {
         ["Horned Melon"] = {},
     },
     ["Buy Pets"] = {
-        ["Frog"] = {Huge = 99, Rainbow = 99},
-        ["Owl"] = {Huge = 99, Rainbow = 99},
         ["Deer"] = 6,
-        ["Robin"] = {Big = 99, Huge = 99, Rainbow = 99},
-        ["Bee"] = {Big = 99, Huge = 99, Rainbow = 99},
-        ["Raccoon"] = 999,
-         ["Unicorn"] = 999,
-        ["Golden Dragonfly"] = 999,
-        ["Firefly "] = 999,
-
     },
     ["Equip Pets"] = {
         {"Deer", 6, 1},
@@ -113,6 +104,6 @@ getgenv().UserConfig = {
     "Pineapple",
     },
     ["Limit Auto Plant"] = 800,
-    ["Blacklist Seed"] = {"Mega"}
+    ["Blacklist Seed"] = {}
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/979cba1a5b965fbc24d274454049b447.lua"))()
