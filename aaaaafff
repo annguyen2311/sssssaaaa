@@ -26,6 +26,7 @@ getgenv().UserConfig = {
         ["Rocket Pop"] = 999,
         ["Sun Bloom"] = 100,
         ["Star Fruit"] = 100,
+        ["Venus Fly Trap"] =100,
     },
     ["Favorite"] = {
         ["Horned Melon"] = {},
