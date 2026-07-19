@@ -97,6 +97,6 @@ getgenv().UserConfig = {
     "Pineapple",
     },
     ["Limit Auto Plant"] = 600,
-    ["Blacklist Seed"] = {}
+    ["Blacklist Seed"] = {"Mega"}
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/979cba1a5b965fbc24d274454049b447.lua"))()
