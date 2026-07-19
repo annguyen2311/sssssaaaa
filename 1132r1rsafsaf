@@ -13,6 +13,7 @@ getgenv().UserConfig = {
         ["Bamboo"] = 9999,
         ["Corn"] = 5,
         ["Cactus"] = 5,
+        ["Venus Fly Trap"] = 100,
         ["Pineapple"] = 999,
         ["Mushroom"] = 999,
         ["Coconut"] = 5,
