@@ -12,7 +12,7 @@ getgenv().UserConfig = {
         ["Bamboo"] = 9999,
         ["Pineapple"] = 999,
         ["Mushroom"] = 9999,
-        ["Acorn"] = 35,
+        ["Acorn"] = 50,
         ["Cherry"] = 35,
         ["Sunflower"] = 35,
         ["Venom Spitter"] = 10,
@@ -85,7 +85,7 @@ getgenv().UserConfig = {
     },
     ["Claim Mail"] = true,
     ["Auto Plant"] = true,
-    ["Blacklist Shovel"] = {"Venus Fly Trap","Rainbow", "Gold","Mega", "Dragon's Breath", "Moon Bloom", "Ghost Pepper", "Venom Spitter", "Poison Apple","Hypno Bloom", "Pomegranate", "Venus Fly Trap"},
+    ["Blacklist Shovel"] = {"Acorn","Venus Fly Trap","Rainbow", "Gold","Mega", "Dragon's Breath", "Moon Bloom", "Ghost Pepper", "Venom Spitter", "Poison Apple","Hypno Bloom", "Pomegranate", "Venus Fly Trap"},
     ["Shovel Plant Once"] = {
     "Carrot",
     "Strawberry",
