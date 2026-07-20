@@ -6,6 +6,7 @@ getgenv().UserConfig = {
     ["Auto Buy Seed"] = true,
     ["Auto Plant Seed"] = true,
     ["Limit Plant Seed"] = {
+    ["Acorn"] = 50,
     },
     ["Limit Buy Seed"] = {
         ["Mushroom"] = 9999,
