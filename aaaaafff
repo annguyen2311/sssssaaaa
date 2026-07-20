@@ -33,16 +33,9 @@ getgenv().UserConfig = {
         ["Horned Melon"] = {},
     },
     ["Buy Pets"] = {
-        ["Bunny"] = 0,
-        ["Frog"] = {Huge = 99, Rainbow = 99},
-        ["Owl"] = {Huge = 99, Rainbow = 99},
-        ["Deer"] = {Huge = 99, Rainbow = 99},
-        ["Robin"] = {Big = 99, Huge = 99, Rainbow = 99},
-        ["Bee"] = {Big = 99, Huge = 99, Rainbow = 99},
         ["Raccoon"] = 999,
-         ["Unicorn"] = 999,
-        ["Golden Dragonfly"] = 999,
         ["Firefly"] = 999,
+        ["Deer"] = 2,
 
     },
     ["Equip Pets"] = {
