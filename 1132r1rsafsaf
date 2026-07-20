@@ -8,9 +8,10 @@ getgenv().UserConfig = {
     ["Limit Plant Seed"] = {
     },
     ["Limit Buy Seed"] = {
-        ["Bamboo"] = 9999,
-        ["Pineapple"] = 999,
         ["Mushroom"] = 9999,
+        ["Tomato"] = 10,
+        ["Blueberry"] = 10,
+        ["Strawberry"] = 10,
         ["Acorn"] = 35,
         ["Cherry"] = 35,
         ["Sunflower"] = 35,
