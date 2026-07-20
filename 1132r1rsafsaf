@@ -8,7 +8,25 @@ getgenv().UserConfig = {
     ["Limit Plant Seed"] = {
     },
     ["Limit Buy Seed"] = {
-
+        ["Bamboo"] = 9999,
+        ["Pineapple"] = 999,
+        ["Mushroom"] = 9999,
+        ["Acorn"] = 35,
+        ["Cherry"] = 35,
+        ["Sunflower"] = 35,
+        ["Venom Spitter"] = 10,
+        ["Moon Bloom"] = 10,
+        ["Ghost Pepper"] = 10,
+        ["Hypno Bloom"] = 10,
+        ["Poison Apple"] = 10,
+        ["Dragon's Breath"] = 100,
+        ["Briar Rose"] = 10,
+        ["Romanesco"] = 10,
+        ["Fire Fern"] = 10,
+        ["Rocket Pop"] = 999,
+        ["Sun Bloom"] = 100,
+        ["Star Fruit"] = 100,
+        ["Venus Fly Trap"] =100,
     },
     ["Favorite"] = {
         ["Horned Melon"] = {},
