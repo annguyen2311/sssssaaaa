@@ -35,6 +35,7 @@ getgenv().UserConfig = {
     ["Buy Pets"] = {
         ["Raccoon"] = 999,
         ["Firefly"] = 999,
+        ["Unicorn"] = 6,
         ["Deer"] = 2,
 
     },
@@ -103,6 +104,6 @@ getgenv().UserConfig = {
     "Dragon Fruit",
     },
     ["Limit Auto Plant"] = 600,
-    ["Blacklist Seed"] = {"Mega","Pineapple","Dragon's Breath","Rocket Pop","Mushroom","Star Fruit"},
+    ["Blacklist Seed"] = {"Mega","Star Fruit"},
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/979cba1a5b965fbc24d274454049b447.lua"))()
