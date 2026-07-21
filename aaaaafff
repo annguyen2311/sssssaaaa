@@ -44,11 +44,9 @@ getgenv().UserConfig = {
         ["Raccoon"] = 999,
         ["Firefly"] = 999,
         ["Unicorn"] = 6,
-        ["Deer"] = 2,
     },
     ["Equip Pets"] = {
-        {"Unicorn", 4, 1},
-        {"Deer", 2, 1},
+        {"Unicorn", 6, 1},
     },
     ["Expand Plot"] = true,
     ["Plot Expansions"] = 3,
