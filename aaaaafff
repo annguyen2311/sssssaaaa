@@ -80,6 +80,7 @@ getgenv().UserConfig = {
     ["Webhook Gear URL"] = "https://discord.com/api/webhooks/1470153835241537628/K-OeVKS63oseQBDCMTb9f1eoFEjiQcG3AAIfP5xosJHHNzHosxVnZ4Fl_xDXLHQcJzX2",
     ["Webhook Gear Name"] = {"Super Sprinkler", "Super Watering Can"},
     ["Webhook Note"] = "",
+    ["Claim Mail"] = true,
     ["Merge Eclipse Bloom"] = true,
     ["Discord ID"] = "",
     ["Mail To Username"] = {""},
@@ -105,11 +106,8 @@ getgenv().UserConfig = {
         ["Fire Fern"] = {"Rainbow", "Gold", "Mega"},
         ["Poison Ivy"] = {"Rainbow", "Gold", "Mega"},
         ["Sunflower"] = {"Rainbow", "Gold", "Mega"},
-        -- Mythic
         "Ghost Pepper", "Venom Spitter", "Poison Apple", "Pomegranate", "Venus Fly Trap",
-        -- Super
         "Dragon's Breath", "Moon Bloom", "Hypno Bloom", "Sun Bloom", "Star Fruit",
-        -- Secret
         "Eclipse Bloom"
     },
     ["Shovel Plant Once"] = {
