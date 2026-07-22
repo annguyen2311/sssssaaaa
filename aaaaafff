@@ -91,14 +91,11 @@ getgenv().UserConfig = {
     ["Claim Mail"] = true,
     ["Auto Plant"] = true,
         ["Blacklist Shovel"] = {
-        -- Epic
-        ["Banana"] = {"Rainbow", "Gold", "Mega"},
         ["Coconut"] = {"Rainbow", "Gold", "Mega"},
         ["Glow Mushroom"] = {"Rainbow", "Gold", "Mega"},
+        ["Pineapple"] = {"Rainbow","Mega"},
         ["Grape"] = {"Rainbow", "Gold", "Mega"},
-        ["Green Bean"] = {"Rainbow", "Gold", "Mega"},
         ["Mango"] = {"Rainbow", "Gold", "Mega"},
-        -- Legendary
         ["Acorn"] = {"Rainbow", "Gold", "Mega"},
         ["Cherry"] = {"Rainbow", "Gold", "Mega"},
         ["Dragon Fruit"] = {"Rainbow", "Gold", "Mega"},
