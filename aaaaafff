@@ -1,4 +1,5 @@
 if not game:IsLoaded() then game.Loaded:Wait() end
+setfpscap(10)
 script_key="bDQsdauSMnRhafecrOgcrjwjrZEUQxCQ";
 getgenv().UserConfig = {
     ["Auto Double Or Nothing"] = true,
